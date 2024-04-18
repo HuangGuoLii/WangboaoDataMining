@@ -11,3 +11,6 @@
 ![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/67ab668f-c666-49df-89a0-ea556ca94976)
 ![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/368dcfb4-1951-4860-a0ec-47c750ed5f43)
 ### 5.建立成功之后，上传文件，将自己的ppt上传至库中，然后编辑readme文件对过程进行描述。
+![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/8a3ca2e0-ff12-4c09-a833-76c1e0a3f5cf)
+### 至此，上传就结束了。
+## 接下来是最后部分，对我想学习或者获得的计算机技能进行详细描述。
