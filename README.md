@@ -7,4 +7,6 @@
 ![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/515dd845-f9c5-4804-8ad4-bdf47de02652)
 ### 3.输入账号密码，点击登录。
 ![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/194fbf6c-05e0-4b93-94ab-8d475407fa26)
-### 4.
+### 4.点击new，新建仓库，输入库名以及相应描述确认即可。
+![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/67ab668f-c666-49df-89a0-ea556ca94976)
+
