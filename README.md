@@ -9,4 +9,5 @@
 ![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/194fbf6c-05e0-4b93-94ab-8d475407fa26)
 ### 4.点击new，新建仓库，输入库名以及相应描述确认即可。
 ![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/67ab668f-c666-49df-89a0-ea556ca94976)
-
+![image](https://github.com/HuangGuoLii/WangboaoDataMining/assets/76643849/368dcfb4-1951-4860-a0ec-47c750ed5f43)
+### 5.建立成功之后，上传文件，将自己的ppt上传至库中，然后编辑readme文件对过程进行描述。
